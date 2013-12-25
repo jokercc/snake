@@ -1,0 +1,22 @@
+{
+	"main": "index.html",
+	"name": "snake",
+	"description": "snake game",
+	"version": "0.1.0",
+	"author": "cc19920929@gmail.com",
+	"window": {
+		"title": "snake",
+		"toolbar": false,
+		"frame": true,
+		"width": 600,
+		"height": 600,
+		"position": "mouse",
+		"min_width": 400,
+		"min_height": 400,
+		"max_width": 1000,
+		"max_height": 1000
+	},
+	"webkit": {
+		"plugin": true
+	}
+}
